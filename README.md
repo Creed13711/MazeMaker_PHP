@@ -10,4 +10,4 @@ Pre-requisites:
 Notes:
 - Tested up to 1000 x 1000 maze, has no issues.
 - Start point for generation is random withing the middle two quadrants of the maze.
-- Select any points as your start and end point.
+- Select any points as your entrance and exit points.
